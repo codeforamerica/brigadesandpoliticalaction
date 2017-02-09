@@ -1,5 +1,4 @@
-# brigadesandpoliticalaction
-Letter to Brigades about the current poltical environment
+# Letter to Brigades about the current poltical environment
 
 Dear Brigade Leaders, 
 
