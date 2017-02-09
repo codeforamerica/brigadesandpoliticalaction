@@ -22,13 +22,13 @@ The short answer is: People should always  do what they feel they need to do to 
 - They can not create political action committees. 
 - They can not distribute or display campaign literature or partisan voter guides.
 
-To reiterate; you can totally do these things personally, as long as you’re not acting as your Brigade or as Code for America when you do so.. 
+To reiterate; you can totally do these things personally, as long as you’re not acting as your Brigade or as Code for America when you do so. 
 
 <b>When to say yes and when to say no</b>
 Some good questions to ask when faced with a question about whether to participate: 
 - Will this move my Brigade’s goals forward??  There’s nothing wrong with going “We’d love to march, but aren't equipped to organize a march. Are you connected with X org?” OR “We can’t lead it, but we’ll let our members know about it.” 
 - Is my Brigade equipped to respond appropriately? Do you have the resources? Do you and your volunteers have time? 
-- Is there another organization already doing this work? Can you partner with them or direct your members their way?i
+- Is there another organization already doing this work? Can you partner with them or direct your members their way?
 - Does this align with my Brigade’s values? 
 - Every Brigade is different. Your values should reflect your membership. It’s a judgement call that your leadership team has to make. 
 
