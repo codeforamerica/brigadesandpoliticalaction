@@ -1,6 +1,4 @@
-# Letter to Brigades about the current poltical environment
-
-Dear Brigade Leaders, 
+# Brigades and Poltical Action 
 
 Code for America has gotten a number of questions about how Brigades should approach political activism given the current political situation in this country. 
 
@@ -69,11 +67,6 @@ If you get a call to action (or want to take actions) that doesn’t sync up wit
 - Call your elected officials 
 - Contribute and volunteer for nonprofits doing good work  
 
-We’ve also placed this letter in a Github repository in case you have any questions or concerns. 
+As we get real world examples, we'll add these to the list. As always, if you have any questions please email christopher@codeforamerica.org 
 
-<b>And finally, a thank you </b>
-
-One of the things that strikes us most about this community is both how much our members love their country and communities as well as how many of you express a desire on a daily basis to be one of the helpers.  In a time in which things are not normal, we take comfort in the fact that we have a community full of brilliant motivated people who can work together to help our communities. 
-
-Thanks for all you do, 
 The Brigade Team & the National Advisory Council 
